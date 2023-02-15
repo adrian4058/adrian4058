@@ -14,9 +14,15 @@ Desde que me introduje en el mundo IT me di cuenta que las tecnologías que usam
 
 ## ⚙️ Proyectos
 [HENRYBOOKS](https://github.com/adrian4058/HenryBooks)
-
 HenryBooks es un E-commerce de E-Books y Books físicos.
 Se integró autenticación de terceron con Auth0 junto con Nodemailer y MercadoPago como Pasarela de Pagos
+
+**Los usuarios pueden**
+- Buscar, ordenar y filtrar los libros.
+- Posibilidad de añadir la reseña de un libro con denuncias a reseñas ofensivas.
+- Compras mediante MercadoPago.
+- Interactuar con el ChatBot.
+
 
 <img align="center" src="https://i.postimg.cc/qRcMTdS0/Captura-de-pantalla-20230215-013505.png">
 <img src="https://i.postimg.cc/7ZCHLzdK/Captura-de-pantalla-20230215-013813.png">
