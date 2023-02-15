@@ -12,6 +12,12 @@ Desde que me introduje en el mundo IT me di cuenta que las tecnologías que usam
 - Controladores Lógicos Programables en **LOGO**
 - Metodologías ágiles **SCRUM**
 
+## ⚙️ Proyectos
+[HENRYBOOKS](https://github.com/adrian4058/HenryBooks)
+
+HenryBooks es un E-commerce de E-Books y Books físicos.
+Se integró autenticación de terceron con Auth0 junto con Nodemailer y MercadoPago como Pasarela de Pagos
+
 ## 📫 Contáctame
 - E-Mail - [adrian_2016_@outlook.es](adrian_2016_@outlook.es)
 - LinkedIn - [Adrian Perez](https://linkedin.com/in/adrian4058)
