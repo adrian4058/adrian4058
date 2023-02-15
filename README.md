@@ -18,7 +18,7 @@ Desde que me introduje en el mundo IT me di cuenta que las tecnologías que usam
 HenryBooks es un E-commerce de E-Books y Books físicos.
 Se integró autenticación de terceron con Auth0 junto con Nodemailer y MercadoPago como Pasarela de Pagos
 
-<img align="center" src="https://postimg.cc/87SQK71v">
+<img align="center" src="https://i.postimg.cc/qRcMTdS0/Captura-de-pantalla-20230215-013505.png">
 
 ## 📫 Contáctame
 - E-Mail - [adrian_2016_@outlook.es](mailto:adrian_2016_@outlook.es)
