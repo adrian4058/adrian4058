@@ -1,5 +1,5 @@
 # Bienvenidos! Mi nombre es Adrián 😃
-Soy Desarrollador Web Full Stack, estudiante de Ing. en Informática y Técnico en Equipos e Instalaciones Electromecánicas. Mi mentalidad optimista y mi actitud combinado con la pasión por el mundo de la tecnlogía hacen que sea muy detallista a la hora de desarrollar las tareas.
+Soy Desarrollador Web Full Stack, estudiante de Ing. en Informática y Técnico en Equipos e Instalaciones Electromecánicas. Mi mentalidad optimista y mi actitud combinado con la curiosidad por el mundo de la tecnlogía hacen que sea muy detallista a la hora de desarrollar las tareas.
 
 
 ## 🧐 Acerca de
