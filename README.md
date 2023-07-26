@@ -3,12 +3,13 @@ Soy Desarrollador Web Full Stack, estudiante de Ing. en Informática y Técnico 
 
 
 ## 🧐 Acerca de
-Desde que me introduje en el mundo IT me di cuenta que las tecnologías que usamos muchas veces van mas rápido de lo que creemos, es por eso que soy un apasionado por aprender algo nuevo todos los días. Procuro el crecimiento profesional y humano por sobre otras cuestiones
+Desde que me introduje en el mundo IT me di cuenta que las tecnologías que usamos muchas veces van mas rápido de lo que creemos, es por eso que me motivo por aprender algo nuevo todos los días. Procuro el crecimiento profesional y humano por sobre otras cuestiones
 
 ## ⚡ Tecnologías y habilidades
 - Desarrollo Backend usando **NodeJS, Express**
-- Desarrollo Frontend usando **React, Redux, Bootstrap**
+- Desarrollo Frontend usando **React, Redux, Tailwind**
 - Bases de Datos relacionales con **Sequelize, PostgreSQL**
+- Lenguajes **Typescript, Javascript, C++**
 - Controladores Lógicos Programables en **LOGO**
 - Metodologías ágiles **SCRUM**
 
