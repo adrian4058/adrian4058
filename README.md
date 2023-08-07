@@ -29,6 +29,7 @@ Desde que me introduje en el mundo IT me di cuenta de que las tecnologías que u
 **DEMO:** [DemoLinkedin](https://www.linkedin.com/posts/adrian4058_react-javascript-node-activity-7087177762955784193-3w1E?utm_source=share&utm_medium=member_desktop)
 
 HenryBooks es un **E-commerce** de E-Books y Books físicos realizado bajo la metodología ágil **SCRUM**.
+En este proyecto me involucré tanto en Frontend como en Backend.
 Se integró autenticación de terceros con **Auth0** junto con **Nodemailer** y **MercadoPago** como Pasarela de Pagos.
 
 **Tecnologías y herramientas utilizadas:** 
