@@ -59,7 +59,7 @@ Sitio totalmente responsivo, con posibilidad de localizar las oficinas mediante 
 <img src="https://i.postimg.cc/Kjw7nmCQ/Gestoria2.png" width="50%" height="50%">
 </div>
 
-[Inside Coaching]
+[Inside Coaching] - Alas
 SPA en desarrollo para consultora de Coaching y Recursos Humanos llamada Inside.
 Diseño y prototipado en Adobe XD de manera colaborativa.
 -Tecnologías y herramientas: **WordPress, Adobe XD, Elementor, PHP**
