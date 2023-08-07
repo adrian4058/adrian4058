@@ -45,7 +45,8 @@ Se integró autenticación de terceros con **Auth0** junto con **Nodemailer** y 
 </div>
 
 <br/>
-[Gestoría Adriana](https://github.com/adrian4058/Gestoria) - [DEPLOY](https://gestoriaadriana.netlify.app/)
+
+**[Gestoría Adriana](https://github.com/adrian4058/Gestoria) - [DEPLOY](https://gestoriaadriana.netlify.app/)**
 SPA para consultora basada en servicios relacionados a la Gestoría del Automotor realizado bajo la modalidad **Freelance**.
 Sitio totalmente responsivo, con posibilidad de localizar las oficinas mediante los mapas de **React Leaflet** utilizando **EmailJS** para mediante un formulario consultar presupuestos relacionados a los servicios que los usuarios puedan necesitar.
 -Tecnologías y herramientas utilizadas: **Typescript, React, Tailwind CSS, EmailJS, React Leaflet**
@@ -60,14 +61,16 @@ Sitio totalmente responsivo, con posibilidad de localizar las oficinas mediante 
 <img src="https://i.postimg.cc/Kjw7nmCQ/Gestoria2.png" width="40%" height="40%">
 </div>
 <br/>
-[Inside Coaching] - Alas
+
+**Inside Coaching - Alas**
 SPA en desarrollo para consultora de Coaching y Recursos Humanos llamada Inside.
 Diseño y prototipado en Adobe XD de manera colaborativa.
 -Tecnologías y herramientas: **WordPress, Adobe XD, Elementor, PHP**
 
 <img src="https://i.postimg.cc/PfRMGMNZ/Inside.png" width="40%" height="40%">
 <br/>
-[Pokemon](https://github.com/adrian4058/ProyectoPokemon)
+
+**[Pokemon](https://github.com/adrian4058/ProyectoPokemon)**
 PokemonApp es una aplicación diseñada para descrubir el mundo pokemon, está realizada con fines didácticos de manera individual.
 Diseño de API rest consumiendo pokemones de la PokeApi y de la base de datos propia.
 -Tecnologías y herramientas utilizadas: **Javascript, Node, React, Redux, SQL, CSS**
