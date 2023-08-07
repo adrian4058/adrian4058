@@ -52,7 +52,7 @@ Sitio totalmente responsivo, con posibilidad de localizar las oficinas mediante 
 - Consultar presupuestos mediante la web.
 - Contactarse directamente con la oficina.
 
-<img src="https://1drv.ms/i/s!Auhm-RgIwxAFwPEw3609qwCLSAwA7g?e=bNqICo">
+<img src="https://i.postimg.cc/VvdBrJZd/Gestoria.png">
 <img src="https://1drv.ms/i/s!Auhm-RgIwxAFwPIWj8_3DN-THDjgAw?e=LbRyzD">
 
 [Inside Coaching]
