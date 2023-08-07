@@ -39,7 +39,7 @@ Se integró autenticación de terceros con **Auth0** junto con **Nodemailer** y 
 - Interactuar con el ChatBot.
 - Panel de Admin con posibilidad de consultar ventas, actualizar stock de libros, desactivar o activar libros según stock, también se pueden consultar las personas que fueron registradas en la página.
 
-<div style="display:flex;">
+<div style="display:flex;flex-direction:row;">
 <img src="https://i.postimg.cc/13xcX5G3/HB.png" width="50%" height="50%">
 <img src="https://i.postimg.cc/mgQ3HfjN/HB2.png" width="50%" height="50%">
 </div>
@@ -54,15 +54,17 @@ Sitio totalmente responsivo, con posibilidad de localizar las oficinas mediante 
 - Consultar presupuestos mediante la web.
 - Contactarse directamente con la oficina.
 
-<img src="https://i.postimg.cc/VvdBrJZd/Gestoria.png">
-<img src="https://i.postimg.cc/Kjw7nmCQ/Gestoria2.png">
+<div style="display:flex;flex-direction:row;">
+<img src="https://i.postimg.cc/VvdBrJZd/Gestoria.png" width="50%" height="50%">
+<img src="https://i.postimg.cc/Kjw7nmCQ/Gestoria2.png" width="50%" height="50%">
+</div>
 
 [Inside Coaching]
 SPA en desarrollo para consultora de Coaching y Recursos Humanos llamada Inside.
 Diseño y prototipado en Adobe XD de manera colaborativa.
 -Tecnologías y herramientas: **WordPress, Adobe XD, Elementor, PHP**
 
-<img src="https://i.postimg.cc/PfRMGMNZ/Inside.png">
+<img src="https://i.postimg.cc/PfRMGMNZ/Inside.png" width="50%" height="50%">
 
 [Pokemon](https://github.com/adrian4058/ProyectoPokemon)
 PokemonApp es una aplicación diseñada para descrubir el mundo pokemon, está realizada con fines didácticos de manera individual.
@@ -73,8 +75,10 @@ Diseño de API rest consumiendo pokemones de la PokeApi y de la base de datos pr
 - Buscar, ordenar y filtrar los libros.
 - Crear nuevos personajes mediante formulario controlado.
 
-<img src="https://i.postimg.cc/TPfVj7H8/pokemonapp.png">
-<img src="https://i.postimg.cc/FskVhJJ6/pokemonapp2.png">
+<div style="display:flex;flex-direction:row;">
+<img src="https://i.postimg.cc/TPfVj7H8/pokemonapp.png" width="50%" height="50%">
+<img src="https://i.postimg.cc/FskVhJJ6/pokemonapp2.png" width="50%" height="50%">
+</div>
 
 ## 📫 Contáctame
 - E-Mail - [adrian_2016_@outlook.es](mailto:adrian_2016_@outlook.es)
