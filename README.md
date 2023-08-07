@@ -39,8 +39,10 @@ Se integró autenticación de terceros con **Auth0** junto con **Nodemailer** y 
 - Interactuar con el ChatBot.
 - Panel de Admin con posibilidad de consultar ventas, actualizar stock de libros, desactivar o activar libros según stock, también se pueden consultar las personas que fueron registradas en la página.
 
-<img src="https://photos.onedrive.com/share/510C30818F966E8!1063049?cid=510C30818F966E8&resId=510C30818F966E8!1063049&authkey=!AILAboIhbONNadk&ithint=photo&e=1TDEy0">
-<img src="https://1drv.ms/i/s!Auhm-RgIwxAFwPEFvuhBD3BTQE4BPg?e=UGvGqp">
+<div style="display:flex;">
+<img src="https://i.postimg.cc/13xcX5G3/HB.png" width="50%" height="50%">
+<img src="https://i.postimg.cc/mgQ3HfjN/HB2.png" width="50%" height="50%">
+</div>
 
 [Gestoría Adriana](https://github.com/adrian4058/Gestoria)
 SPA para consultora basada en servicios relacionados a la Gestoría del Automotor realizado bajo la modalidad **Freelance**.
@@ -53,14 +55,14 @@ Sitio totalmente responsivo, con posibilidad de localizar las oficinas mediante 
 - Contactarse directamente con la oficina.
 
 <img src="https://i.postimg.cc/VvdBrJZd/Gestoria.png">
-<img src="https://1drv.ms/i/s!Auhm-RgIwxAFwPIWj8_3DN-THDjgAw?e=LbRyzD">
+<img src="https://i.postimg.cc/Kjw7nmCQ/Gestoria2.png">
 
 [Inside Coaching]
 SPA en desarrollo para consultora de Coaching y Recursos Humanos llamada Inside.
 Diseño y prototipado en Adobe XD de manera colaborativa.
 -Tecnologías y herramientas: **WordPress, Adobe XD, Elementor, PHP**
 
-<img src="https://1drv.ms/i/s!Auhm-RgIwxAFwPBwTVt_UPkyZaiZ2g?e=JD9A3P">
+<img src="https://i.postimg.cc/PfRMGMNZ/Inside.png">
 
 [Pokemon](https://github.com/adrian4058/ProyectoPokemon)
 PokemonApp es una aplicación diseñada para descrubir el mundo pokemon, está realizada con fines didácticos de manera individual.
@@ -71,8 +73,8 @@ Diseño de API rest consumiendo pokemones de la PokeApi y de la base de datos pr
 - Buscar, ordenar y filtrar los libros.
 - Crear nuevos personajes mediante formulario controlado.
 
-<img src="https://1drv.ms/i/s!Auhm-RgIwxAFwPAPMsELq0teUyhHrA?e=nj7o3H">
-<img src="https://1drv.ms/i/s!Auhm-RgIwxAFwPASXLz93R9GrK_K8A?e=qQdTro">
+<img src="https://i.postimg.cc/TPfVj7H8/pokemonapp.png">
+<img src="https://i.postimg.cc/FskVhJJ6/pokemonapp2.png">
 
 ## 📫 Contáctame
 - E-Mail - [adrian_2016_@outlook.es](mailto:adrian_2016_@outlook.es)
