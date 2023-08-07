@@ -39,7 +39,7 @@ Se integró autenticación de terceros con **Auth0** junto con **Nodemailer** y 
 - Interactuar con el ChatBot.
 - Panel de Admin con posibilidad de consultar ventas, actualizar stock de libros, desactivar o activar libros según stock, también se pueden consultar las personas que fueron registradas en la página.
 
-<img src="https://1drv.ms/i/s!Auhm-RgIwxAFwPEI7pK_3WryI_cTLA?e=KCa2xW">
+<img src="https://photos.onedrive.com/share/510C30818F966E8!1063049?cid=510C30818F966E8&resId=510C30818F966E8!1063049&authkey=!AILAboIhbONNadk&ithint=photo&e=1TDEy0">
 <img src="https://1drv.ms/i/s!Auhm-RgIwxAFwPEFvuhBD3BTQE4BPg?e=UGvGqp">
 
 [Gestoría Adriana](https://github.com/adrian4058/Gestoria)
