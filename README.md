@@ -46,7 +46,8 @@ Se integró autenticación de terceros con **Auth0** junto con **Nodemailer** y 
 
 <br/>
 
-**[Gestoría Adriana](https://github.com/adrian4058/Gestoria) - [DEPLOY](https://gestoriaadriana.netlify.app/)**
+** -[GestoríaAdriana](https://github.com/adrian4058/Gestoria) **
+** - [DEPLOY](https://gestoriaadriana.netlify.app) **
 SPA para consultora basada en servicios relacionados a la Gestoría del Automotor realizado bajo la modalidad **Freelance**.
 Sitio totalmente responsivo, con posibilidad de localizar las oficinas mediante los mapas de **React Leaflet** utilizando **EmailJS** para mediante un formulario consultar presupuestos relacionados a los servicios que los usuarios puedan necesitar.
 -Tecnologías y herramientas utilizadas: **Typescript, React, Tailwind CSS, EmailJS, React Leaflet**
