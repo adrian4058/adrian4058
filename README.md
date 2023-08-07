@@ -27,6 +27,7 @@ Desde que me introduje en el mundo IT me di cuenta de que las tecnologías que u
 ## ⚙️ Proyectos
 ### [HENRYBOOKS](https://github.com/adrian4058/HenryBooks) 
 **DEMO:** [DemoLinkedin](https://www.linkedin.com/posts/adrian4058_react-javascript-node-activity-7087177762955784193-3w1E?utm_source=share&utm_medium=member_desktop)
+
 HenryBooks es un **E-commerce** de E-Books y Books físicos realizado bajo la metodología ágil **SCRUM**.
 Se integró autenticación de terceros con **Auth0** junto con **Nodemailer** y **MercadoPago** como Pasarela de Pagos.
 
@@ -50,6 +51,7 @@ Se integró autenticación de terceros con **Auth0** junto con **Nodemailer** y 
 
 ### [GestoríaAdriana](https://github.com/adrian4058/Gestoria)
 **DEPLOY:** [https://gestoriaadriana.netlify.app](https://gestoriaadriana.netlify.app)
+
 SPA para consultora basada en servicios relacionados con la Gestoría del Automotor, realizado bajo la modalidad **Freelance**.
 El sitio es totalmente responsivo y permite localizar las oficinas mediante los mapas de **React Leaflet**. Se utiliza **EmailJS** para consultar presupuestos relacionados a los servicios que los usuarios puedan necesitar.
 
@@ -70,6 +72,7 @@ El sitio es totalmente responsivo y permite localizar las oficinas mediante los 
 
 ### Inside Coaching - Alas
 **DEMO:** [DemoLinkedin](https://www.linkedin.com/posts/adrian4058_ux-developer-desarrollador-activity-7080254035143925760-FZm6?utm_source=share&utm_medium=member_desktop)
+
 SPA en desarrollo para consultora de Coaching y Recursos Humanos llamada Inside.
 Diseño y prototipado en Adobe XD de manera colaborativa.
 
@@ -82,6 +85,7 @@ Diseño y prototipado en Adobe XD de manera colaborativa.
 
 ### [Pokemon](https://github.com/adrian4058/ProyectoPokemon)
 **DEMO:** [DemoLinkedin](https://www.linkedin.com/posts/adrian4058_javascript-react-redux-activity-7047231593916043264-phlf?utm_source=share&utm_medium=member_desktop)
+
 PokemonApp es una aplicación diseñada para descubrir el mundo Pokemon, está realizada con fines didácticos de manera individual.
 Se realizó el diseño de API REST consumiendo pokemones de la PokeApi y de la base de datos propia.
 
@@ -102,6 +106,7 @@ Se realizó el diseño de API REST consumiendo pokemones de la PokeApi y de la b
 ## 📫 Contáctame
 - E-Mail: [adrian_2016_@outlook.es](mailto:adrian_2016_@outlook.es)
 - LinkedIn: [Adrian Perez](https://linkedin.com/in/adrian4058)
+
 
 <!--
 **adrian4058/adrian4058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
