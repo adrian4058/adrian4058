@@ -6,7 +6,7 @@ Desde que me introduje en el mundo IT me di cuenta de que las tecnologías que u
 
 ## ⚡ Tecnologías y habilidades
 - Desarrollo Backend usando **NodeJS, Python Django**
-- Desarrollo Frontend usando **React, NextJS, CSS, ANTDesign, Tailwind**
+- Desarrollo Frontend usando **React, NextJS, CSS, ANTDesign, Bootstrap, MUI**
 - Bases de Datos relacionales con **PostgreSQL**
 - Lenguajes **Typescript, Javascript**
 - Controladores Lógicos Programables en **LOGO SoftComfort**
@@ -16,11 +16,17 @@ Desde que me introduje en el mundo IT me di cuenta de que las tecnologías que u
 - Desarrollo en WordPress*
 
 ## Experiencia Laboral
-**Desarrollador FullStack** en [ESCRITOSPACE] - Remoto - (Oct. 2023 - Actualidad)
-- Desarrollo FullStack con Python Django, Next.js y ANT Design para estilos.
-- Brindo soluciones para garantizar el correcto funcionamiento de las funcionalidades requeridas por la aplicación.
+
+**Desarrollador FullStack** en [Smart Air](https://smartairfilters.com/en/) - Remoto - (Feb. 2024 - Ago. 2024)
+-Colaboré en el desarrollo Full Stack utilizando Next.js, Python con Django y componentes de MUI en el entorno de Smart Air.
+-Utilicé la plataforma Qinping para el monitoreo de calidad del aire y la aplicaciónes de eWeLink y Smarthings para el control remoto de los dispositivos. 
+-Además, implementé un sistema de geolocalización y mapeo interactivo para visualizar la ubicación de los purificadores en tiempo real, entre otros.
+
+**Desarrollador FullStack** en ESCRITOSPACE - Remoto - (Oct. 2023 - Mar. 2024)
+- Desarrollé parte de la aplicación de manera FullStack con Python Django, Next.js y ANT Design para estilos.
+- Brindé soluciones para garantizar el correcto funcionamiento de las funcionalidades requeridas por la aplicación.
   
-**Desarrollador Frontend** en [iCreativaDigital] - Remoto - (Ago. 2023 - Sep. 2023)
+**Desarrollador Frontend** en [iCreativaDigital](https://icreativadigital.com/) - Remoto - (Ago. 2023 - Sep. 2023)
 - Colaboré con el equipo de desarrollo frontend en el desarrollo de aplicaciones web utilizando React, CSS y GSAP.
 - Realicé informes diarios del progreso de los proyectos, identifiqué desafíos y coordiné tareas para lograr objetivos.
 
@@ -35,6 +41,31 @@ Desde que me introduje en el mundo IT me di cuenta de que las tecnologías que u
 - Trabajo en equipo con compañeros de departamento para abordar desafíos y llevar a cabo proyectos de manera efectiva.
 
 ## ⚙️ Proyectos
+### Mi Vete - Sistema de Recompensas para Veterinarias 🐾 (Freelance)
+**DEMO:** [DemoLinkedin](https://www.linkedin.com/posts/adrian4058_buenas-gente-como-andan-hoy-les-quiero-activity-7233837580595720192-7qtg?utm_source=share&utm_medium=member_desktop)
+
+Mi Vete es una aplicación diseñada para una veterinaria local que permite a sus clientes recibir recompensas en forma de puntos, los cuales pueden ser utilizados como descuentos en consultas médicas para sus mascotas.
+
+Descripción del Proyecto: El sistema ofrece la posibilidad de registro manual por parte del usuario en la página web o, alternativamente, que el cliente sea creado desde la sección de administración, pensada especialmente para personas que no están familiarizadas con la tecnología, como las personas mayores.
+
+Funcionalidad Principal: Por cada compra de alimento balanceado, los clientes acumulan una bonificación del 10% del total en puntos, que son equivalentes a pesos. Estos puntos pueden ser utilizados como descuento en futuras consultas veterinarias.
+
+Tecnologías y Herramientas Utilizadas:
+
+Frontend & Backend: PostgreSQL, Express, React, Node.js
+Diseño de Interfaz: Material-UI
+Notificaciones SMS: Integración con Twilio
+Características:
+
+Registro de usuarios y creación de clientes desde el panel de administración.
+Acumulación y redención de puntos equivalentes a pesos en consultas veterinarias.
+Notificaciones en tiempo real a través de SMS para mantener a los clientes informados sobre su saldo de puntos.
+
+<div style="display:flex;flex-direction:row;">
+  <img src="https://i.postimg.cc/Lsh8fbsZ/Captura-de-pantalla-2024-09-09-191338.png" width="20%" height="20%"/>
+  <img src="https://i.postimg.cc/tgfCzN1v/Captura-de-pantalla-2024-09-09-191231.png" width="20%" height="20%">
+</div>
+
 ### [HENRYBOOKS](https://github.com/adrian4058/HenryBooks) 
 **DEMO:** [DemoLinkedin](https://www.linkedin.com/posts/adrian4058_react-javascript-node-activity-7087177762955784193-3w1E?utm_source=share&utm_medium=member_desktop)
 
