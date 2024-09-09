@@ -18,6 +18,7 @@ Desde que me introduje en el mundo IT me di cuenta de que las tecnologías que u
 ## Experiencia Laboral
 
 **Desarrollador FullStack** en [Smart Air](https://smartairfilters.com/en/) - Remoto - (Feb. 2024 - Ago. 2024)
+<br/>
 -Colaboré en el desarrollo Full Stack utilizando Next.js, Python con Django y componentes de MUI en el entorno de Smart Air.
 -Utilicé la plataforma Qinping para el monitoreo de calidad del aire y la aplicaciónes de eWeLink y Smarthings para el control remoto de los dispositivos. 
 -Además, implementé un sistema de geolocalización y mapeo interactivo para visualizar la ubicación de los purificadores en tiempo real, entre otros.
