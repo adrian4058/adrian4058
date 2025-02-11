@@ -92,7 +92,7 @@ Notificaciones en tiempo real a través de SMS para mantener a los clientes info
   <img src="https://i.postimg.cc/tgfCzN1v/Captura-de-pantalla-2024-09-09-191231.png" width="20%" height="20%">
 </div>
 
-### [HENRYBOOKS](https://github.com/adrian4058/HenryBooks) 
+### [BOOKS](https://github.com/adrian4058/Books) 
 **DEMO:** [DemoLinkedin](https://www.linkedin.com/posts/adrian4058_react-javascript-node-activity-7087177762955784193-3w1E?utm_source=share&utm_medium=member_desktop)
 
 Books es un **E-commerce** de E-Books y Books físicos realizado bajo la metodología ágil **SCRUM**.
