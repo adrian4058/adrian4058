@@ -13,7 +13,7 @@ Desde que me introduje en el mundo IT me di cuenta de que las tecnologías que u
 - Metodologías ágiles **SCRUM**
 - Herramientas de Diseño como **Adobe XD**
 - Gestión de versiones con **Git**
-- Desarrollo en WordPress*
+- Desarrollo en **WordPress**
 
 ## Experiencia Laboral
 
@@ -42,6 +42,31 @@ Desde que me introduje en el mundo IT me di cuenta de que las tecnologías que u
 - Trabajo en equipo con compañeros de departamento para abordar desafíos y llevar a cabo proyectos de manera efectiva.
 
 ## ⚙️ Proyectos
+
+# Muchiutti Representaciones - Página Web Corporativa 🏗️
+
+**DEMO:** [Muchiutti Representaciones](https://muchiutti-representaciones.com/)
+
+Muchiutti Representaciones es una SPA (Single Page Application) diseñada para mostrar los servicios de la empresa, descargar catálogos en PDF y facilitar el contacto con clientes a través de formularios y WhatsApp.
+
+## Funcionalidades Principales
+- Formulario de contacto con envío de mensajes mediante EmailJS.
+- Popup con posición sticky para CTA de contacto vía WhatsApp.
+- Generación de un código QR para redirigir usuarios a la web.
+
+## Tecnologías Utilizadas
+- **Frontend & Backend**: React, EmailJS, Bootstrap, React Slick
+- **Interfaz de Usuario**: CSS, Bootstrap
+
+## Capturas de Pantalla
+<div style="display:flex;flex-direction:row;">
+  <img src="https://i.postimg.cc/VrvN115c/Captura-de-pantalla-2025-02-11-001146.png" width="20%" height="20%"/>
+  <img src="https://i.postimg.cc/kVn41WmG/Captura-de-pantalla-2025-02-11-001212.png" width="20%" height="20%">
+</div>
+
+---
+© 2025 - Muchiutti Representaciones
+
 ### Mi Vete - Sistema de Recompensas para Veterinarias 🐾 (Freelance)
 **DEMO:** [DemoLinkedin](https://www.linkedin.com/posts/adrian4058_buenas-gente-como-andan-hoy-les-quiero-activity-7233837580595720192-7qtg?utm_source=share&utm_medium=member_desktop)
 
@@ -70,7 +95,7 @@ Notificaciones en tiempo real a través de SMS para mantener a los clientes info
 ### [HENRYBOOKS](https://github.com/adrian4058/HenryBooks) 
 **DEMO:** [DemoLinkedin](https://www.linkedin.com/posts/adrian4058_react-javascript-node-activity-7087177762955784193-3w1E?utm_source=share&utm_medium=member_desktop)
 
-HenryBooks es un **E-commerce** de E-Books y Books físicos realizado bajo la metodología ágil **SCRUM**.
+Books es un **E-commerce** de E-Books y Books físicos realizado bajo la metodología ágil **SCRUM**.
 En este proyecto me involucré tanto en Frontend como en Backend.
 Se integró autenticación de terceros con **Auth0** junto con **Nodemailer** y **MercadoPago** como Pasarela de Pagos.
 
